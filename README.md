@@ -4,6 +4,8 @@ A Simple, Native PHP Templating Engine decoupled from CodeIgniter 4
 
 ## Usage
 
+**Writing Templates**: [refer to CI4 docs](https://codeigniter.com/user_guide/outgoing/views.html)
+
 ### Example 1: 
 
 ```php
