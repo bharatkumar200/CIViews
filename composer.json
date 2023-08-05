@@ -1,0 +1,17 @@
+{
+    "name": "simplydi/civiews",
+    "description": "A Simple, Native PHP Templating Engine decoupled from CodeIgniter 4",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SimplyDi\\CIViews\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Naman Kumar",
+            "email": "namankumar80510@gmail.com"
+        }
+    ],
+    "require": {}
+}
